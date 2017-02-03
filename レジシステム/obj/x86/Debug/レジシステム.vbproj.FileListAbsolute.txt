@@ -1,0 +1,42 @@
+C:\Users\s121038\AppData\Local\Temporary Projects\レジシステム\bin\Debug\レジシステム.exe
+C:\Users\s121038\AppData\Local\Temporary Projects\レジシステム\bin\Debug\レジシステム.pdb
+C:\Users\s121038\AppData\Local\Temporary Projects\レジシステム\bin\Debug\レジシステム.xml
+C:\Users\s121038\AppData\Local\Temporary Projects\レジシステム\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s121038\AppData\Local\Temporary Projects\レジシステム\obj\x86\Debug\レジシステム.Form1.resources
+C:\Users\s121038\AppData\Local\Temporary Projects\レジシステム\obj\x86\Debug\レジシステム.Resources.resources
+C:\Users\s121038\AppData\Local\Temporary Projects\レジシステム\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\s121038\AppData\Local\Temporary Projects\レジシステム\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\s121038\AppData\Local\Temporary Projects\レジシステム\obj\x86\Debug\レジシステム.exe
+C:\Users\s121038\AppData\Local\Temporary Projects\レジシステム\obj\x86\Debug\レジシステム.xml
+C:\Users\s121038\AppData\Local\Temporary Projects\レジシステム\obj\x86\Debug\レジシステム.pdb
+\\poplar2\home\kjs\s121038\visual studio 2010\Projects\レジシステム\レジシステム\obj\x86\Debug\レジシステム.exe
+\\poplar2\home\kjs\s121038\visual studio 2010\Projects\レジシステム\レジシステム\obj\x86\Debug\レジシステム.xml
+\\poplar2\home\kjs\s121038\visual studio 2010\Projects\レジシステム\レジシステム\obj\x86\Debug\レジシステム.pdb
+\\poplar2\home\kjs\s121038\visual studio 2010\Projects\レジシステム\レジシステム\bin\Debug\レジシステム.exe
+\\poplar2\home\kjs\s121038\visual studio 2010\Projects\レジシステム\レジシステム\bin\Debug\レジシステム.pdb
+\\poplar2\home\kjs\s121038\visual studio 2010\Projects\レジシステム\レジシステム\bin\Debug\レジシステム.xml
+\\poplar2\home\kjs\s121038\visual studio 2010\Projects\レジシステム\レジシステム\obj\x86\Debug\ResolveAssemblyReference.cache
+\\poplar2\home\kjs\s121038\visual studio 2010\Projects\レジシステム\レジシステム\obj\x86\Debug\レジシステム.Form1.resources
+\\poplar2\home\kjs\s121038\visual studio 2010\Projects\レジシステム\レジシステム\obj\x86\Debug\レジシステム.Resources.resources
+\\poplar2\home\kjs\s121038\visual studio 2010\Projects\レジシステム\レジシステム\obj\x86\Debug\GenerateResource.read.1.tlog
+\\poplar2\home\kjs\s121038\visual studio 2010\Projects\レジシステム\レジシステム\obj\x86\Debug\GenerateResource.write.1.tlog
+\\mis\【WORK】\B2\徐\レジシステム\レジシステム\obj\x86\Debug\レジシステム.exe
+\\mis\【WORK】\B2\徐\レジシステム\レジシステム\obj\x86\Debug\レジシステム.xml
+\\mis\【WORK】\B2\徐\レジシステム\レジシステム\obj\x86\Debug\レジシステム.pdb
+\\mis\【WORK】\B2\徐\レジシステム\レジシステム\obj\x86\Debug\ResolveAssemblyReference.cache
+\\mis\【WORK】\B2\徐\レジシステム\レジシステム\obj\x86\Debug\レジシステム.Form1.resources
+\\mis\【WORK】\B2\徐\レジシステム\レジシステム\obj\x86\Debug\レジシステム.Resources.resources
+\\mis\【WORK】\B2\徐\レジシステム\レジシステム\obj\x86\Debug\GenerateResource.read.1.tlog
+\\mis\【WORK】\B2\徐\レジシステム\レジシステム\obj\x86\Debug\GenerateResource.write.1.tlog
+\\mis\【WORK】\B2\徐\レジシステム\レジシステム\bin\Debug\レジシステム.exe
+\\mis\【WORK】\B2\徐\レジシステム\レジシステム\bin\Debug\レジシステム.pdb
+\\mis\【WORK】\B2\徐\レジシステム\レジシステム\bin\Debug\レジシステム.xml
+\\mis\【Work】\M1\徐\レジシステム\レジシステム\obj\x86\Debug\レジシステム.exe
+\\mis\【Work】\M1\徐\レジシステム\レジシステム\obj\x86\Debug\レジシステム.xml
+\\mis\【Work】\M1\徐\レジシステム\レジシステム\obj\x86\Debug\レジシステム.pdb
+\\mis\【Work】\M1\徐\レジシステム\レジシステム\bin\Debug\レジシステム.exe
+\\mis\【Work】\M1\徐\レジシステム\レジシステム\bin\Debug\レジシステム.pdb
+\\mis\【Work】\M1\徐\レジシステム\レジシステム\bin\Debug\レジシステム.xml
+\\mis\【Work】\M1\徐\レジシステム\レジシステム\obj\x86\Debug\レジシステム.Form1.resources
+\\mis\【Work】\M1\徐\レジシステム\レジシステム\obj\x86\Debug\レジシステム.Resources.resources
+\\mis\【Work】\M1\徐\レジシステム\レジシステム\obj\x86\Debug\レジシステム.vbproj.GenerateResource.Cache
